@@ -4,7 +4,7 @@
 import smtplib
 from os import system
 
-print main():
+   def main():
    print '================================================='
    print '               create by Ajhar Molla                  '
    print '================================================='
